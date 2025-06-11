@@ -81,5 +81,5 @@ Created an **interactive dashboard** that includes:
 - **Delivered data-driven recommendations** for **staffing and inventory planning**
 ## 📷 Dashboard Preview
 
-![Power BI Dashboard](Walmart_Dashboard.png)
+![Power BI Dashboard](Walmart_sales_Dashboard.png)
 
