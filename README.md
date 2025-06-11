@@ -79,3 +79,7 @@ Created an **interactive dashboard** that includes:
 - **Enabled identification** of **high/low-performing branches and products**
 - **Helped pinpoint customer preferences** and **sales behavior**
 - **Delivered data-driven recommendations** for **staffing and inventory planning**
+## 📷 Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
+
